@@ -1,0 +1,9 @@
+.env
+*.pyc
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+crypto_terminal/logs/trades.csv
